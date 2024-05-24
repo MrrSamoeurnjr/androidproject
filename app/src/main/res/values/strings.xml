@@ -1,17 +1,34 @@
+<!--<resources>-->
+<!--    <string name="app_name">My Application</string>-->
+<!--    <string-array name="horoscope_array">-->
+<!--        <item>Aries</item>-->
+<!--        <item>Taurus</item>-->
+<!--        <item>Gemini</item>-->
+<!--        <item>Cancer</item>-->
+<!--        <item>Leo</item>-->
+<!--        <item>Virgo</item>-->
+<!--        <item>Libra</item>-->
+<!--        <item>Scorpio</item>-->
+<!--        <item>Sagittarius</item>-->
+<!--        <item>Capricorn</item>-->
+<!--        <item>Aquarius</item>-->
+<!--        <item>Pisces</item>-->
+<!--    </string-array>-->
+<!--</resources>-->
 <resources>
     <string name="app_name">My Application</string>
     <string-array name="horoscope_array">
-        <item>Aries</item>
-        <item>Taurus</item>
-        <item>Gemini</item>
-        <item>Cancer</item>
-        <item>Leo</item>
-        <item>Virgo</item>
-        <item>Libra</item>
-        <item>Scorpio</item>
-        <item>Sagittarius</item>
-        <item>Capricorn</item>
-        <item>Aquarius</item>
-        <item>Pisces</item>
+        <item>Aries: March 21 - April 19. Aries individuals are known for their energetic, dynamic, and pioneering nature. They are confident, enthusiastic, and assertive. Famous Aries: Leonardo da Vinci.</item>
+        <item>Taurus: April 20 - May 20. Taurus individuals are known for their reliability, patience, and practical approach to life. They value stability and have a strong work ethic. Famous Taurus: Queen Elizabeth II.</item>
+        <item>Gemini: May 21 - June 20. Geminis are known for their versatility, curiosity, and sociability. They are quick-witted, adaptable, and communicative. Famous Gemini: John F. Kennedy.</item>
+        <item>Cancer: June 21 - July 22. Cancer individuals are known for their emotional depth, intuition, and nurturing nature. They value family and home life highly. Famous Cancer: Princess Diana.</item>
+        <item>Leo: July 23 - August 22. Leos are known for their confidence, creativity, and leadership. They are charismatic, generous, and enjoy being in the spotlight. Famous Leo: Barack Obama.</item>
+        <item>Virgo: August 23 - September 22. Virgos are known for their analytical minds, attention to detail, and practicality. They are organized and reliable. Famous Virgo: Mother Teresa.</item>
+        <item>Libra: September 23 - October 22. Libras are known for their balance, harmony, and justice. They are diplomatic, charming, and socially skilled. Famous Libra: Mahatma Gandhi.</item>
+        <item>Scorpio: October 23 - November 21. Scorpios are known for their intensity, passion, and determination. They are resourceful and focused. Famous Scorpio: Marie Curie.</item>
+        <item>Sagittarius: November 22 - December 21. Sagittarians are known for their adventurous spirit, optimism, and love of freedom. They are philosophical and open-minded. Famous Sagittarius: Mark Twain.</item>
+        <item>Capricorn: December 22 - January 19. Capricorns are known for their ambition, discipline, and practicality. They are hardworking and goal-oriented. Famous Capricorn: Martin Luther King Jr.</item>
+        <item>Aquarius: January 20 - February 18. Aquarians are known for their innovation, independence, and humanitarianism. They are intellectual and forward-thinking. Famous Aquarius: Abraham Lincoln.</item>
+        <item>Pisces: February 19 - March 20. Pisces individuals are known for their empathy, intuition, and artistic nature. They are compassionate and dreamy. Famous Pisces: Albert Einstein.</item>
     </string-array>
 </resources>
